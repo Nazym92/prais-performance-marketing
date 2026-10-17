@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nazym92.github.io/prais-performance-marketing/sitemap.xml
